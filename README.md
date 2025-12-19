@@ -37,7 +37,7 @@ Specifically optimized for Linux environments, it implements **Zero-Copy (Splice
 ### Build
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/proxy5.git](https://github.com/YOUR_USERNAME/proxy5.git)
+git clone https://github.com/Xiao-VoV/rust_socks5_server.git
 cd proxy5
 cargo build --release
 ```
@@ -176,7 +176,7 @@ dig @8.8.8.8 google.com +tcp=0 +proxy=127.0.0.1:1080
 ### 编译
 
 ```bash
-git clone [https://github.com/你的用户名/proxy5.git](https://github.com/你的用户名/proxy5.git)
+git clone https://github.com/Xiao-VoV/rust_socks5_server.git
 cd proxy5
 cargo build --release
 
